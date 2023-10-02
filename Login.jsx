@@ -4,10 +4,6 @@ import axios from 'axios'
 
 function Login() {
 
-//    const [name,setName] = useState();
-//    const [email,setEmail] = useState();
-//    const [pass,setPass] = useState();
-
 const [ loginData, setLoginData ] = useState({
     email: '',
     pass: '',
