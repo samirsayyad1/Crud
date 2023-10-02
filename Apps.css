@@ -1,0 +1,69 @@
+table{
+  width: 100%;
+}
+
+#basic-navbar-nav{
+  /* background-color: pink; */
+  font-size: 20px;
+  font-weight: bold;
+}
+.link{
+  margin: 0px 10px 0px 20px;
+}
+.img{
+   width: 100%;
+   height: 500px;
+}
+.datas{
+
+      color: white;
+}
+h5,p{
+   color: white;
+}
+.logo{
+   /* width: ; */
+   width: 70px;
+   height: 70px;
+   border-radius: 50%;
+}
+
+.forms1{
+     width: 100%;
+     height: 500px;
+     background-repeat: no-repeat;
+     background-image: url('https://media.istockphoto.com/id/1061972196/photo/camel-safari-ride-caravan-in-hunder-desert-nubra-valley-leh-ladakh-india.jpg?s=612x612&w=0&k=20&c=czU_-_ruVm2n917nAcClu9Cud6cRP3qmeUTM2njV_hU=');
+     background-size: cover;
+     text-align: center;
+     display: block;
+     
+} 
+.forms{
+   border-radius: 20px;
+   border: 2px solid red;
+   top: 80px;
+   position:relative;
+   display: inline-block;
+   padding: 20px;
+   box-sizing: border-box;
+   box-shadow: 2px 2px 20px 5px black;
+}
+.forms input{
+   margin: 10px;
+}
+
+.user_data{
+
+    /* position:relative;
+    top: 40px; */
+    text-align: center;
+    box-shadow: 5px 5px 20px 2px black;
+    margin-top: 40px;
+}
+
+table tr td{
+  padding: 20px;
+}
+table tr th{
+   padding: 20px;
+}
